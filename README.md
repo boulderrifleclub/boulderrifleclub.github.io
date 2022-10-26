@@ -1,1 +1,0 @@
-# boulderrifleclub.github.io
