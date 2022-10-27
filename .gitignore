@@ -4,5 +4,7 @@ _site
 .jekyll-metadata
 vendor
 
+.idea
+
 *.swp
 *.swo
