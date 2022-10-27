@@ -235,31 +235,31 @@ muddy conditions.
 
 # Approved targets and target placement
 
-    1. No exploding targets are to be used on any BRC range.
-    2. No bowling pins may be used as targets.
-    3. Outdoor targets shall be confined to paper, cardboard, soft plastic, clay, or metal cans (absolutely no glass or
-       hard plastics). Metal cans (soda cans, soup cans, etc. Not steel containers or any other metal target which would
-       pose a side-deflection hazard) and soft plastic containers are permitted but **must be removed** by the shooter
-       before leaving the range. All disposable targets, excluding clay targets, shall be disposed of in the proper
-       receptacles before leaving the range.
-    4. Indoor targets may be paper, soft plastic or cardboard only.
-    5. Firing at metal targets shall be permitted, so long as no rounds leave the range. All metallic targets must be
-       placed directly in front of the backstops so that a miss will impact the backstop, **not the range floor**, or
-       where facilities are set up for this activity. **Steel targets which present a side dispersion of bullet
-       fragments, such as dueling trees, are not permitted**.
-    6. All non-paper targets shall be placed against the backstop. No targets are to be placed on the backstop above the
-       height of the target carriers, with the exception of clay pigeon targets which does not involve climbing on the
-       backstop. No targets are to be placed on or near the top of the backstop.
-    7. All paper targets shall be placed in the center of the target boards. No targets are to be placed on the 2x4
-       target frames.
-    8. Steel targets with designated distances or designated uses are not to be used for other distances or purposes.
-       Steel targets made for the Cowboy program are not to be used with jacketed or high velocity bullets.
-    9. Any personally-owned steel target that can present a rearward, sideward (**for example, dueling trees**) or angle
-       deflection towards the shooter, or at an angle that would send a projectile off the range, is prohibited.
-    10. No double taps are allowed on rearward falling metal targets.
-    11. No shooting of steel targets is to take place closer than 11 yards from the target.
-    12. No targets shall be placed on the floor of any BRC ranges and no shooting shall be allowed into the floor of any
-        range.
+1. No exploding targets are to be used on any BRC range.
+2. No bowling pins may be used as targets.
+3. Outdoor targets shall be confined to paper, cardboard, soft plastic, clay, or metal cans (absolutely no glass or
+   hard plastics). Metal cans (soda cans, soup cans, etc. Not steel containers or any other metal target which would
+   pose a side-deflection hazard) and soft plastic containers are permitted but **must be removed** by the shooter
+   before leaving the range. All disposable targets, excluding clay targets, shall be disposed of in the proper
+   receptacles before leaving the range.
+4. Indoor targets may be paper, soft plastic or cardboard only.
+5. Firing at metal targets shall be permitted, so long as no rounds leave the range. All metallic targets must be
+   placed directly in front of the backstops so that a miss will impact the backstop, **not the range floor**, or
+   where facilities are set up for this activity. **Steel targets which present a side dispersion of bullet
+   fragments, such as dueling trees, are not permitted**.
+6. All non-paper targets shall be placed against the backstop. No targets are to be placed on the backstop above the
+   height of the target carriers, with the exception of clay pigeon targets which does not involve climbing on the
+   backstop. No targets are to be placed on or near the top of the backstop.
+7. All paper targets shall be placed in the center of the target boards. No targets are to be placed on the 2x4
+   target frames.
+8. Steel targets with designated distances or designated uses are not to be used for other distances or purposes.
+   Steel targets made for the Cowboy program are not to be used with jacketed or high velocity bullets.
+9. Any personally-owned steel target that can present a rearward, sideward (**for example, dueling trees**) or angle
+   deflection towards the shooter, or at an angle that would send a projectile off the range, is prohibited.
+10. No double taps are allowed on rearward falling metal targets.
+11. No shooting of steel targets is to take place closer than 11 yards from the target.
+12. No targets shall be placed on the floor of any BRC ranges and no shooting shall be allowed into the floor of any
+    range.
 
 # Rules for specific ranges
 
