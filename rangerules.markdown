@@ -5,7 +5,7 @@ permalink: /rangerules/
 ---
 
 1. this will be a numbered table of contents
-   {:toc}
+{:toc}
 
 # Introduction
 
