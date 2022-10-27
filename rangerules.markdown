@@ -4,6 +4,9 @@ title: Range Rules
 permalink: /rangerules/
 ---
 
+# Range rules
+{:.no_toc}
+
 1. this will be a numbered table of contents
 {:toc}
 
