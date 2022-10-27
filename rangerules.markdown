@@ -4,7 +4,13 @@ title: Range Rules
 permalink: /rangerules/
 ---
 
-1. Introduction
+{:toc}
+
+# Introduction
+
+## Purpose
+
+1. Something
 
     1. Purpose
 
@@ -211,7 +217,7 @@ permalink: /rangerules/
            proper facilities are in place but are not to be fired into wooden target backers. Use the patterning fixture
            or bring your own target.
 
-           Additional firearm restrictions apply on some BRC Ranges. [See Sections 4.1, 4.2]
+           Additional firearm restrictions apply on some BRC Ranges. \[See Sections 4.1, 4.2\]
 
         3. Ammunition restrictions
 
@@ -223,7 +229,7 @@ permalink: /rangerules/
            Steel jacketed or steel core ammunition may not be used on the indoor range, the plate racks or other
            metallic targets belonging to the club.
 
-           BRC restricts cartridges used on steel targets and Indoor Range. [See Sections 4.1.3 and 4.1.7.]
+           BRC restricts cartridges used on steel targets and Indoor Range. \[See Sections 4.1.3 and 4.1.7.\]
 
     4. Muddy conditions
 
