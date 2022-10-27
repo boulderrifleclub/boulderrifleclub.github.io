@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Range Rules
 permalink: /rangerules/
 ---
