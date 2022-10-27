@@ -4,10 +4,14 @@ title: Range Rules
 permalink: /rangerules/
 ---
 
+{::comment}
+For proper rendering, this page should be viewed at https://boulderrifleclub.github.io/rangerules/
+{:/comment}
+
 # Range rules
 {:.no_toc}
 
-1. this will be a numbered table of contents
+1. This line won't be rendered. A numbered table of contents will follow.
 {:toc}
 
 # Introduction
