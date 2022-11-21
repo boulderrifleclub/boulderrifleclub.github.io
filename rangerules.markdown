@@ -143,12 +143,10 @@ website calendar. Check the website for any updates.
 
 ### Range fees
 
-All users of the **indoor range** must pay for use of the range which is $5 per shooter visit; match fees
-include this payment.
-Members' spouses may shoot free of charge on outdoor ranges (except in matches) when in the company of the
-member.
+Range fee policy is the same for outdoor and indoor ranges.
+Members' spouses may shoot free of charge (except in matches) when in the company of the member.
 
-Individuals under the age of 18 may shoot free of charge on outdoor ranges as long as they are using only **
+Individuals under the age of 18 may shoot free of charge as long as they are using only **
 one** range position and are supervised by an adult member or paying adult if the range is open to the
 public. All guests must execute a waiver. Parents or guardians must execute a waiver for anyone under the age
 of 18.
@@ -359,16 +357,14 @@ for cleaning the indoor range.
 Pick up spent shells using the brass collection tools provided for gathering spent cartridge cases.
 
 The indoor range is open to members and guests only, with the exception of scheduled matches and programs.
-All users of the indoor range must pay for use of the range which is $5 per shooter visit; match fees include
-this payment.
 
-Failure to sign in, have executed a waiver, or pay the appropriate range fee (s) for the indoor range shall
-result in a punitive fee of twice the normal range fee and a one-month suspension of indoor range privileges.
+Failure to sign in or to have executed a waiver for the indoor range shall
+result in a one-month suspension of indoor range privileges.
 Infractions or violation of an existing suspension shall result in additional Board sanctions.
 
 Anyone (members and guests) using the indoor range must sign in upon entering the building either on the
 logbook by the entrance or with the individual(s) running the match/activity and pay the match fee, or slip
-an envelope with the members and guests names and date/time, containing the range use fee (s), in the drop
+an envelope with the members and guests names and date/time, containing any range use fees, in the drop
 safe next to the vault door. **All guests must execute a waiver**. Parents or guardians must execute a waiver
 for anyone under the age of 18 (members should have a waiver on file). Liability Waiver forms should be
 placed in the indoor sign-in binder, to be collected by the Secretary.
